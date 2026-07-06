@@ -276,14 +276,14 @@
         }
 
         .hero h2 {
-            font-size: 1.2rem;
+            font-size: 1.3rem;
             font-weight: 500;
             color: var(--text-muted);
             margin-bottom: 1.5rem;
         }
 
         .hero p {
-            font-size: 1.2rem;
+            font-size: 1.1rem;
             margin-bottom: 2rem;
             color: var(--text-muted);
         }
@@ -957,7 +957,7 @@
             }
 
             .hero h1{
-                font-size:1.8rem;
+                font-size:1.9rem;
                 line-height:1.2;
             }
 
@@ -966,7 +966,7 @@
             }
 
             .hero p{
-                font-size:1.2rem;
+                font-size:1.1rem;
             }
 
             .profile-img{
