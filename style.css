@@ -117,13 +117,13 @@
         .nav-links{
             display:flex;
             align-items:center;
-            gap:12px;
+            gap:8px;
             list-style:none;
         }
 
         .nav-links a{
             position:relative;
-            padding:12px 22px;
+            padding:6px 12px;
             border-radius:30px;
             text-decoration:none;
             color:#402d44;
@@ -255,7 +255,7 @@
             height: 330px;
             border-radius: 50%;
             object-fit: cover;
-            border: 6px solid #e2dee7;
+            border: 6px solid #e7d6fc;
             box-shadow: 0 10px 25px rgba(108, 92, 231, 0.15);
             background-color: var(--lavender-mid); /* Fallback accent background color */
             margin-left: 30px;
@@ -276,14 +276,14 @@
         }
 
         .hero h2 {
-            font-size: 1.8rem;
+            font-size: 1.2rem;
             font-weight: 500;
             color: var(--text-muted);
             margin-bottom: 1.5rem;
         }
 
         .hero p {
-            font-size: 1.1rem;
+            font-size: 1rem;
             margin-bottom: 2rem;
             color: var(--text-muted);
         }
@@ -642,7 +642,7 @@
 
         .progress-bar-fill {
             height: 100%;
-            background-color: #a88eca;
+            background-color: #9a21e0;
             border-radius: 5px;
             width: 0; /* Animated via JS */
             transition: width 1.5s cubic-bezier(0.1, 1, 0.1, 1);
@@ -752,7 +752,7 @@
         }
 
         .github-btn:hover{
-            background:#7b30a7;
+            background:#2e1b3a;
             color:white;
         }
 
@@ -962,7 +962,7 @@
             }
 
             .hero h2{
-                font-size:1.3rem;
+                font-size:0.9rem;
             }
 
             .hero p{
